@@ -17,6 +17,8 @@ import lime.net.curl.CURLCode;
 
 #if windows
 import Discord.DiscordClient;
+#if android
+addVirtualPad(FULL, A_B)
 #end
 
 using StringTools;
